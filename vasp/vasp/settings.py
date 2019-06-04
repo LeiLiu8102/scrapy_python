@@ -35,6 +35,13 @@ ROBOTSTXT_OBEY = False
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
 
+# Enable cookies
+COOKIES_ENABLED = True
+COOKIES_DEBUG = True
+
+# Change the default log level
+LOG_LEVEL = 'ERROR'
+
 # Disable Telnet Console (enabled by default)
 #TELNETCONSOLE_ENABLED = False
 
